@@ -51,7 +51,7 @@ pip install rich
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/realsunil/steam-account-checker.git
+git clone https://github.com/realsunil/steam_checker.git
 cd steam-account-checker
 pip install rich
 python steam_checker.py
